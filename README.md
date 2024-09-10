@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! This website showcases my projects, skills, and contact information.
 
 ## 🌟 Live Demo
-Check out the live version of my portfolio: [https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+Check out the live version of my portfolio: ((http://vaishnavigurav.me/My_Portfolio/))
 
 ## 🛠️ Technologies Used
 - HTML
